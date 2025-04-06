@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# specifically, the bfi binary
+bfi
+
 # Test binary, built with `go test -c`
 *.test
 
